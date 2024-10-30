@@ -1,0 +1,8 @@
+<wpml-config>
+    <admin-texts>
+        <key name="woocommerce_cp_enabled" />
+        <key name="woocommerce_cp_title" />
+        <key name="woocommerce_cp_description" />
+        <key name="woocommerce_cp_instructions" />
+    <admin-texts>
+</wpml-config>
